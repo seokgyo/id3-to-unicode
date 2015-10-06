@@ -1,4 +1,4 @@
-# id3_to_unicode
+# id3 to unicode
 convert id3 tags to unicode.
 
 origianl code: https://code.google.com/p/id3-to-unicode/
